@@ -1,4 +1,4 @@
-# template meme no license
+# Meme Template no license
 
 Change hyperlink with yours, and you can change or add your image link too on `assets` folder 
 
